@@ -1,0 +1,30 @@
+api call in js
+---------------------
+AJAX Asynchronous javascript and xml
+
+XML Http
+Fetch
+Async await
+
+redirection in react
+---------------------
+
+react-router-dom 
+install commnt
+ npm i react-router-dom
+
+ import { BrowserRouter as router       - all routing need components
+ Routes,        - to used to set path for each components
+ Route } from 'react-router-dom' - -more than one path
+
+
+ useParams-hook used to access params from component url
+
+import- import {useparams}
+
+Redux
+--------
+
+
+to acess data from store to components-use selector-(hook)
+
